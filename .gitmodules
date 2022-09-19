@@ -1,0 +1,18 @@
+[submodule "px4_ros_com_ros2/src/robot-framework"]
+	path = px4_ros_com_ros2/src/robot-framework
+	url = https://github.com/dasc-lab/robot-framework.git
+[submodule "px4_ros_com_ros2/src/px4_ros_com"]
+	path = px4_ros_com_ros2/src/px4_ros_com
+	url = https://github.com/dasc-lab/px4_ros_com.git
+[submodule "px4_ros_com_ros2/src/px4_msgs"]
+	path = px4_ros_com_ros2/src/px4_msgs
+	url = https://github.com/dasc-lab/px4_msgs.git
+[submodule "px4_ros_com_ros2/src/robot-framework-py"]
+	path = px4_ros_com_ros2/src/robot-framework-py
+	url = https://github.com/dasc-lab/robot-framework-py
+[submodule "px4_ros_com_ros2/src/vicon_px4_bridge"]
+	path = px4_ros_com_ros2/src/vicon_px4_bridge
+	url = https://github.com/dasc-lab/vicon_px4_bridge.git
+[submodule "px4_ros_com_ros2/src/ros2-vicon-receiver"]
+	path = px4_ros_com_ros2/src/ros2-vicon-receiver
+	url = https://github.com/dasc-lab/ros2-vicon-receiver.git
