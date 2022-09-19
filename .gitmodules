@@ -16,3 +16,6 @@
 [submodule "px4_ros_com_ros2/src/ros2-vicon-receiver"]
 	path = px4_ros_com_ros2/src/ros2-vicon-receiver
 	url = https://github.com/dasc-lab/ros2-vicon-receiver.git
+[submodule "px4_ros_com_ros2/src/FORESEE"]
+	path = px4_ros_com_ros2/src/FORESEE
+	url = https://github.com/hardikparwana/FORESEE.git
