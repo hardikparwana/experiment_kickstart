@@ -14,5 +14,5 @@ services:
       - DISPLAY=$DISPLAY
       - FASTRTPS_DEFAULT_PROFILES_FILE=/root/px4_ros_com_ros2/super_client_configuration_file.xml
       - RMW_IMPLEMENTATION=rmw_fastrtps_cpp
-      - ROS_DISCOVERY_SERVER=192.168.1.123:11811
+      - ROS_DISCOVERY_SERVER=192.168.2.143:11811
 

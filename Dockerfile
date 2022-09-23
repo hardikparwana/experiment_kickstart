@@ -17,6 +17,6 @@ RUN apt install ros-galactic-compressed-image-transport
 # install additional dependencies
 #RUN python3 -m pip install --upgrade ortools cvxpy pandas tqdm pypoman gurobipy
 
-RUN echo "PYTHONPATH=/root/px4_ros_com_ros2/src/robot-framework-py:${PYTHONPATH}" >> ~/.bashrc
+#RUN echo "PYTHONPATH=/root/px4_ros_com_ros2/src/robot-framework-py:${PYTHONPATH}" >> ~/.bashrc
 
 WORKDIR "/root/px4_ros_com_ros2"
